@@ -3,10 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 AAABBB
 =======
 >>>>>>> 07cf92a... fix bug 101
->>>>>>> dev
-111111
+11111111111111111111111111111111111111
